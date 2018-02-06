@@ -67,11 +67,11 @@
 				<configuration>
 				<deploymentType>cloudhub</deploymentType>
 				<muleVersion>${mule.version}</muleVersion>
-				<username>sreenivasb</username>
-				<password>Feb@2017</password>
+				<username>darbharama</username>
+				<password>Password123</password>
 				<workerType>Micro</workerType>
 				<redeploy>true</redeploy>
-				<environment>Development</environment>
+				<environment>Test-001-Sandbox</environment>
 				</configuration>
 				<executions>
 					<execution>
